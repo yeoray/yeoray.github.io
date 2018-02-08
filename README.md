@@ -1,27 +1,22 @@
-## Welcome to GitHub Pages
+## hello word
 
 You can use the [editor on GitHub](https://github.com/yeoray/yeoray.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+int main()
+{
+    double  x;
+    int i;//钱数
+    for(i=1; i<=5; i++)
+    {
+        x=(x+1000)/(1+12*0.0063);
+    }
+    printf("%f",x);
+    return 0;
+}
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-高瑜雪巨可爱
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
